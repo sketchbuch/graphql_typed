@@ -9,6 +9,7 @@
 *.pyc
 *.swp
 node_modules
+out
 
 # IntelliJ related
 .idea/
