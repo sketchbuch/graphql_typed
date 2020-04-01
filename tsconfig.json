@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "lib": ["es2016", "esnext.asynciterable"],
+    "module": "commonjs",
+    "target": "es2016"
+  }
+}
