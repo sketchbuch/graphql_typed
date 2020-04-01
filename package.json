@@ -1,0 +1,14 @@
+{
+  "name": "graphql_typed",
+  "version": "1.0.0",
+  "author": "SketchBuch <sb.design.de@gmail.com>",
+  "description": "A test repo to learn about more about TypeGraphQL which we use at MediaMarktSaturn",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "main": "index.js",
+  "repository": "git@github.com:sketchbuch/graphql_typed.git",
+  "dependencies": {
+  },
+  "scripts": {
+    "basic": "node src/basic.js"
+  }
+}
