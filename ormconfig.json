@@ -1,0 +1,12 @@
+{
+  "database": "tgql",
+  "entities": ["src/entity/*.*"],
+  "host": "localhost",
+  "logging": true,
+  "name": "default",
+  "password": "saarland",
+  "port": 5432,
+  "synchronize": true,
+  "type": "postgres",
+  "username": "stephen"
+}
